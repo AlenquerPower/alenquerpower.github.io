@@ -1,0 +1,19 @@
+title: Alenquer Power
+email: cpmachado@protonmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+    Our main page
+baseurl: ""
+url: "https://alenquerpower.github.io"
+github_username:  AlenquerPower
+
+show_excerpts: false
+
+header_pages:
+  - about.md
+  - contact.md
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
